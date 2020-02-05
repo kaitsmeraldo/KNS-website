@@ -17,6 +17,9 @@ organizations:
 - name: The Ohio State University
   url: ""
 
+# Email 
+- address: smeraldo.1@osu.edu
+
 # Short bio (displayed in user profile at end of posts)
 # bio: 
 
