@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-#  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+ # - course: PhD in Artificial Intelligence
+  #  institution: Stanford University
+  #  year: 2012
   - course: MA in Sociology
     institution: The Ohio State University
     year: 2019
