@@ -22,9 +22,9 @@ organizations:
 
 interests:
 - Trauma
-- Gender
-- Narrative
+- Gender, Race, Class
 - Genocide
+- Narrative
 - Qualitative Methods
 
 education:
