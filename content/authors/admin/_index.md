@@ -18,24 +18,28 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests broadly examine how people cope with experiences of trauma and how those experiences shape the narratives of their lives. I'm particularly interested in how intimate partner sexual assault and familial sexual abuse impact people's understandings of themselves and the world. My methodological expertise is in qualitative interviews. 
+
+I'm currently working on several interview projects: Genocide Crimes in Rwanda, the Higher Education Innovation Project, as well as conducting a pilot study in Ohio on sexual assault and abuse. I am also working on a paper investigating health outcomes of sexual assault.
+
+I am advised by Dr. Rin Reczek and Dr. Hollie Brehm.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Trauma
+- Gender
+- Narrative
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+#  - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA in Sociology
+    institution: The Ohio State University
+    year: 2019
+  - course: BA in Sociology and Education; Minor in Africana Studies (Honors, Magna Cum Laude, Phi Beta Kappa)
+    institution: Bucknell Univeristy
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
