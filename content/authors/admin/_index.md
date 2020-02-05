@@ -23,7 +23,6 @@ bio: My research interests broadly examine how people cope with experiences of t
 I'm currently working on several interview projects: Genocide Crimes in Rwanda, the Higher Education Innovation Project, as well as conducting a pilot study in Ohio on sexual assault and abuse. I am also working on a paper investigating health outcomes of sexual assault.
 
 I am advised by Dr. Rin Reczek and Dr. Hollie Brehm.
-
 interests:
 - Trauma
 - Gender
