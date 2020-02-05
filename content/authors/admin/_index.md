@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Kait Smeraldo
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The Ohio State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Trauma
+- Gender
+- Narrative
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - # course: PhD in Artificial Intelligence
+    # institution: Stanford University
+    # year: 2012
+  - course: MA in Sociology
+    institution: The Ohio State University
+    year: 2019
+  - course: BA in Sociology and Education; Minor in Africana Studies
+    institution: Bucknell University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,10 +55,10 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests broadly examine how people cope with experiences of trauma and how those experiences shape the narratives of their lives. I'm particularly interested in how intimate partner sexual assault and familial sexual abuse impact people's understandings of themselves and the world. My methodological expertise is in qualitative interviews. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently working on several interview projects: Genocide Crimes in Rwanda, the Higher Education Innovation Project, as well as conducting a pilot study in Ohio on sexual assault and abuse. I am also working on a paper investigating health outcomes of sexual assault.
+
+I am advised by [Dr. Rin Reczek](https://sociology.osu.edu/people/reczek.2) and [Dr. Hollie Brehm](https://sociology.osu.edu/people/brehm.84).
