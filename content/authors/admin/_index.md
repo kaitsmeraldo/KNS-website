@@ -18,11 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests broadly examine how people cope with experiences of trauma and how those experiences shape the narratives of their lives. I'm particularly interested in how intimate partner sexual assault and familial sexual abuse impact people's understandings of themselves and the world. My methodological expertise is in qualitative interviews. 
-
-I'm currently working on several interview projects: Genocide Crimes in Rwanda, the Higher Education Innovation Project, as well as conducting a pilot study in Ohio on sexual assault and abuse. I am also working on a paper investigating health outcomes of sexual assault.
-
-I am advised by Dr. Rin Reczek and Dr. Hollie Brehm.
+# bio: 
 
 interests:
 - Trauma
@@ -74,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests broadly examine how people cope with experiences of trauma and how those experiences shape the narratives of their lives. I'm particularly interested in how intimate partner sexual assault and familial sexual abuse impact people's understandings of themselves and the world. My methodological expertise is in qualitative interviews. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently working on several interview projects: Genocide Crimes in Rwanda, the Higher Education Innovation Project, as well as conducting a pilot study in Ohio on sexual assault and abuse. I am also working on a paper investigating health outcomes of sexual assault.
+
+I am advised by Dr. Rin Reczek and Dr. Hollie Brehm.
