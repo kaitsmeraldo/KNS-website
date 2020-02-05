@@ -74,6 +74,6 @@ user_groups:
 
 My research interests broadly examine how people cope with experiences of trauma and how those experiences shape the narratives of their lives. I'm particularly interested in how intimate partner sexual assault and familial sexual abuse impact people's understandings of themselves and the world. My methodological expertise is in qualitative interviews. 
 
-I'm currently working on several interview projects: Genocide Crimes in Rwanda, the Higher Education Innovation Project, as well as conducting a pilot study in Ohio on sexual assault and abuse. I am also working on a paper investigating health outcomes of sexual assault.
+I'm currently involved in several interview projects: Genocide Crimes in Rwanda, the Higher Education Innovation Project, and conducting a pilot study in Ohio on sexual assault and abuse. I am also working on a paper investigating health outcomes of sexual assault.
 
-I am advised by Dr. Rin Reczek and Dr. Hollie Brehm.
+I am advised by [Dr. Rin Reczek](https://sociology.osu.edu/people/reczek.2) and [Dr. Hollie Nyseth Brehm](https://sociology.osu.edu/people/brehm.84).
