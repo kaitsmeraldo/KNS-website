@@ -35,7 +35,7 @@ education:
   - course: MA in Sociology
     institution: The Ohio State University
     year: 2019
-  - course: BA in Sociology and Education; Minor in Africana Studies (Honors, Magna Cum Laude, Phi Beta Kappa)
+  - course: BA in Sociology and Education
     institution: Bucknell Univeristy
     year: 2017
 
